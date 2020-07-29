@@ -608,15 +608,5 @@ int main()
 }
 
 
-//should creatr integer type question 
-//shuffling questions
-//time bound fn 
-//password part for student and teacher
-//take students input such as sem 
-//displaying the rules of quiz in student login
-//change ansr to qn
-//Bookmark qn
-//jump to any qn
-//view bookmarks qn
-//in papers file names should not get repeated
+
 
